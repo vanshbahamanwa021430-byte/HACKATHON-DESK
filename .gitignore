@@ -1,0 +1,12 @@
+node_modules/
+dist/
+dist-app/
+publish/
+*.log
+.env
+.env.*
+# Release signing material never goes in the repository.
+*.jks
+*.keystore
+keystore.properties
+e2e-shots/
