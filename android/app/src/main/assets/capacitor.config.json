@@ -1,0 +1,18 @@
+{
+	"appId": "com.hackforge.app",
+	"appName": "HackForge",
+	"webDir": "dist-app",
+	"backgroundColor": "#050507",
+	"android": {
+		"allowMixedContent": false
+	},
+	"plugins": {
+		"CapacitorHttp": {
+			"enabled": true
+		},
+		"SystemBars": {
+			"insetsHandling": "native",
+			"style": "DARK"
+		}
+	}
+}
